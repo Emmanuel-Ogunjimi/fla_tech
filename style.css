@@ -1,0 +1,35 @@
+header{
+   font-family:initial;
+     color: #036;
+   text-align: center;
+   background-color: rgb(183, 193, 221);
+  /* border: 2px solid black;*/}
+
+
+
+
+
+   section{
+      border: 2px solid salmon;
+      background-color: rgb(201, 211, 223);
+      width: 200px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+
+
+
+
+
+   footer{
+      color: black;
+      text-align: center;
+      background-color:rgb(194, 209, 226);
+      height: 80px;
+    }
+
+
+
+    .first_box{
+      background-color: magenta;
+    }
